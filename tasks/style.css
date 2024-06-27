@@ -1,0 +1,13 @@
+h1 {
+  background-color: blue;
+  font-size: 40px;
+  color: purple;
+  border-color: aqua;
+}
+
+h2 {
+  background-color: yellow;
+  font-size: 50px;
+  color: orange;
+  border-color: green;
+}
