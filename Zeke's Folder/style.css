@@ -1,0 +1,13 @@
+p {
+  background-color: rgb(145, 152, 12);
+}
+
+h2 {
+  text-transform: uppercase;
+  color: darkcyan;
+}
+
+h4 {
+  text-transform: uppercase;
+  color: darkred;
+}
