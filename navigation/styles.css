@@ -1,0 +1,46 @@
+.nav-h {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: aquamarine;
+  }
+  
+  ul li a {
+    display: block;
+    color: grey;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 25px;
+  }
+  
+  .nav-h li {
+    float: left;
+  }
+  
+  ul li a:hover {
+    background-color: darkcyan;
+    color: black;
+  }
+  
+  .active {
+    background-color: lightgrey;
+    color: black;
+  }
+  
+  ol li {
+    font-size: 20px;
+    font-family: "Courier New", Courier, monospace;
+  }
+  
+  #Ingredients li {
+    font-size: 20px;
+    font-family: "Courier New", Courier, monospace;
+  }
+  
+  p {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 20px;
+    text-align: center;
+  }

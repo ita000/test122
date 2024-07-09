@@ -1,3 +1,17 @@
+/* div {
+width: 100px;
+hight: 100px;
+background: red;
+transiton-property: width, height;
+transiton-duration: 2s;
+transiton-timing-function: linear;
+transiton-delay: 1s;
+} */
+
+
+
+
+
 div {
     width: 100px;
     height: 100px;

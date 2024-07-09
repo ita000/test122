@@ -1,0 +1,20 @@
+#shorthand {
+    background-color: #0de6bb;
+    width: 300px;
+    padding: 30px;
+    border: 10px solid #c8b520;
+    margin: 10px;
+    box-sizing: border-box;
+  }
+  
+  #longform {
+    background-color: #dddddd;
+    width: 300px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 80px;
+    padding-right: 60px;
+    border: 10px solid #20014b;
+    margin: 10px;
+    box-sizing: border-box;
+  }
