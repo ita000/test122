@@ -1,0 +1,17 @@
+p::first-line {
+  color: blue;
+}
+
+#name::first-letter {
+  color: blueviolet;
+}
+
+#before::before {
+  content: ">>";
+  color: aqua;
+}
+
+#after::after {
+  content: "<<";
+  color: cornflowerblue;
+}
